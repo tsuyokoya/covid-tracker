@@ -1,6 +1,6 @@
 # Covid-19 Tracker
 
-<img src='./screenshots/covid-cards' alt='covid tracker main' height='350' width='500'>
+<img src='./screenshots/covid-cards.png' alt='covid tracker main' height='350' width='500'>
 
 ## 🧐 Project Description
 
@@ -31,8 +31,8 @@ The "api" directory contains an index.js file that fetches (via axios) the daily
 
 ## Line chart for daily Covid-19 cases
 
-<img src='./screenshots/covid-daily' alt='covid tracker main' height='350' width='500'>
+<img src='./screenshots/covid-daily.png' alt='covid tracker main' height='350' width='500'>
 
 ## Bar chart for a specific country's Covid-19 cases
 
-<img src='./screenshots/covid-country' alt='covid tracker main' height='350' width='500'>
+<img src='./screenshots/covid-country.png' alt='covid tracker main' height='350' width='500'>
